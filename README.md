@@ -1,0 +1,1 @@
+Bu programı OOP konseptini daha iyi anlamak için kendim yazdım. Ziraat Bankası ile bir alakası yok, sadece adını öylesine koydum. Eğer kodun daha iyi olabileceğini düşünüyorsanız (ki muhtemelen olabilir) o zaman lütfen bana e-posta aracılığıyla ulaşın.
